@@ -1,6 +1,6 @@
 # first
 fsta
-rst
+fst
 ha
 zenjiayihang
 dev
