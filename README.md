@@ -1,5 +1,5 @@
 # first
-irst
+frsta
 ha
 zenjiayihang
 dev
