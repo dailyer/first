@@ -10,6 +10,4 @@ test1
 a454
 sflafj
 dakldjlfj
-3333676767
-
-llll
+<<<<<<< HEAD3333sssssssssssssssss
